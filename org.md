@@ -6,7 +6,7 @@ Committee members:
 
   <div class="photo">
   <a href="https://scholar.google.com.sg/citations?user=fUtHww0AAAAJ&hl=en">
-  <img src="assets/img/trm.jpeg">
+  <img src="assets/imgs/trm.jpeg">
   </a><br>
   <a href="https://scholar.google.com.sg/citations?user=fUtHww0AAAAJ&hl=en">Ruiming Tang</a>
   <div>Director of Recommendation and Search Lab</div>
