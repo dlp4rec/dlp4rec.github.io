@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'dlprec'
+title: 'dlp2023'
 description: 'Official website for International Workshop on Deep Learning Practice for High-Dimensional Sparse Data with RecSys 2023'
 permalink: pretty
 #logo: ""

@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: DLP2023
 feature_image: ""
 feature_text: |
   # International Workshop on Deep Learning Practice for High-Dimensional Sparse Data 
