@@ -198,7 +198,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: monospace, monospace; /* 1 */
+  font-family: Arial, sans-serif; /* 1 */
   font-size: 1em; /* 2 */
 }
 
@@ -525,7 +525,7 @@ a:hover, a:active, a:focus {
 }
 .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6 {
   color: #242e2b;
-  font-family: 'Times New Roman', serif;
+  font-family: Arial, sans-serif;
   font-feature-settings: "dlig", "liga", "lnum", "kern";
   font-style: normal;
   font-weight: 700;
