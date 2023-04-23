@@ -23,7 +23,7 @@ We are pleased to invite you to contribute to the International Workshop on Deep
 # Submission and Formatting Instructions
 Submissions are limited to a total of 9 (nine) pages in a double-column format, including all content and references. Submissions must be in PDF format and formatted according to the latest [ACM Conference Proceedings Template](https://www.acm.org/publications/proceedings-template#h-latex-authors). Short papers are also welcomed. Reviews are not double-blind, and author names and affiliations should be listed. 
 
-All submissions can be made through EasyChair. We plan to archive the accepted papers (For example, on Springer).
+All submissions can be made through [EasyChair](https://easychair.org/conferences/?conf=dlp2023). We plan to archive the accepted papers (For example, on Springer).
 
 # Important Dates
 * Paper submission: August 3th, 2023
