@@ -26,7 +26,7 @@ Submissions are limited to a total of 9 (nine) pages in a double-column format, 
 All submissions can be made through [EasyChair](https://easychair.org/conferences/?conf=dlp2023). We plan to archive the accepted papers (For example, on Springer).
 
 # Important Dates
-* Paper submission: August 3th, 2023
+* Paper submission: July 31th, 2023
 * Notications: August 27th, 2023
 * Camera ready: September 10th, 2023
 
