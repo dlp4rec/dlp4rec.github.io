@@ -8,6 +8,7 @@ We are pleased to invite you to contribute to the International Workshop on Deep
 - Embedding techniques, manifold learning, and dictionary learning
 - User behavior understanding
 - Large-scale recommendation and retrieval system
+- Large language models and recommender systems
 - Model compression for industrial application
 - Scalable, distributed, and parallel training system for deep learning
 - High throughput and low latency real-time serving system
@@ -16,7 +17,6 @@ We are pleased to invite you to contribute to the International Workshop on Deep
 - Explainable deep learning for high-dimensional data
 - Data augmentation, and anomaly detection for high-dimensional sparse data
 - Generative adversarial network for sparse data
-- Large language model-enhanced recommender systems
 - Other challenges encountered in real-world applications
 
 
