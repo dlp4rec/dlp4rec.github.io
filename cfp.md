@@ -7,11 +7,11 @@ We are pleased to invite you to contribute to the International Workshop on Deep
 - Representation learning for high-dimensional sparse data
 - Embedding techniques, manifold learning, and dictionary learning
 - User behavior understanding
-- Large-scale recommendation and retrieval system
+- Large-scale recommendation and retrieval systems
 - Large language models and recommender systems
-- Model compression for industrial application
+- Model compression for industrial applications
 - Scalable, distributed, and parallel training system for deep learning
-- High throughput and low latency real-time serving system
+- High throughput and low latency real-time serving systems
 - Applications of transfer learning, meta learning for sparse data
 - Auto machine learning, auto feature selection
 - Explainable deep learning for high-dimensional data
