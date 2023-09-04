@@ -41,7 +41,7 @@ navigation_header:
 - title: Organization
   url: /org/
 - title: Schedule
-  url: /Schedule/
+  url: /schedule/
 
 # Footer nav
 navigation_footer:
