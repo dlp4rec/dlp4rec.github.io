@@ -1,0 +1,61 @@
+
+
+[
+  
+  
+    
+    
+  
+  
+  
+  {
+    "title": "Beijing Event",
+    "excerpt": "\n",
+    "content": "The DLP workshop (Beijing) is scheduled on Sept. 16 (Saturday). Detailed agenda will be coming soon…\n",
+    "url": "/beijing/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Call for contribution",
+    "excerpt": "\n",
+    "content": "We are pleased to invite you to contribute to the International Workshop on Deep Learning Practice for High-Dimensional Sparse Data. Topics of interest for DLP 2023 include but are not limited to deep learning based network architecture design, large-scale deep learning training framework, high-performance online inference engines, or toolkits that help break the black box of deep learning models, such as\n\n  Large-scale user response prediction modeling\n  Representation learning for high-dimensional sparse data\n  Embedding techniques, manifold learning, and dictionary learning\n  User behavior understanding\n  Large-scale recommendation and retrieval system\n  Model compression for industrial application\n  Scalable, distributed, and parallel training system for deep learning\n  High throughput and low latency real-time serving system\n  Applications of transfer learning, meta learning for sparse data\n  Auto machine learning, auto feature selection\n  Explainable deep learning for high-dimensional data\n  Data augmentation, and anomaly detection for high-dimensional sparse data\n  Generative adversarial network for sparse data\n  Large language model-enhanced recommender systems\n  Other challenges encountered in real-world applications\n\n\nSubmission and Formatting Instructions\nSubmissions are limited to a total of 9 (nine) pages in a double-column format, including all content and references. Submissions must be in PDF format and formatted according to the latest ACM Conference Proceedings Template. Short papers are also welcomed. Reviews are not double-blind, and author names and affiliations should be listed.\n\nAll submissions can be made through EasyChair. We plan to archive the accepted papers (For example, on Springer).\n\nImportant Dates\n\n  Paper submission: August 3th, 2023\n  Notications: August 27th, 2023\n  Camera ready: September 10th, 2023\n\n\nDeadlines refer to 23:59 (11:59pm) in the AoE (Anywhere on Earth) time zone.\n",
+    "url": "/cfp/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "Introduction",
+    "excerpt": "\n",
+    "content": "In the increasingly digitalized world, recommender systems play a crucial role in processing, understanding, and leveraging vast amounts of data collected from the Internet. By accurately modeling user interests and intentions based on their behavioral data, recommender systems can substantially improve user experiences, drive user engagement, and ultimately boost revenue.\n\nRecently, we have witnessed that deep learning-based approaches have been widely applied to empower recommender systems by better leveraging the massive data. However, the data utilized in recommender systems typically comprises a large volume of users, items, and user-generated tabular data, which is high-dimensional and extremely sparse. This contrasts with dense data processing applications, such as image classification and speech recognition, where deep learning-based approaches have been extensively explored. How to mine, model, and inference from such high-dimensional sparse data becomes an interesting problem. Furthermore, leveraging such data with deep learning techniques could be a new research direction with high practical value. The characteristics of such data pose unique challenges to the adoption of deep learning in these applications, including modeling, training, online serving, etc. As more academic and industry communities have initiated endeavors to address these challenges, this workshop will offer a platform for researchers and engineers to discuss and identify the obstacles, utilize the opportunities, and propose innovative ideas for the practical application of deep learning on high-dimensional sparse data.\n\nPast Events\nWe have hosted the DLP workshop four times at KDD. Detailed programs and accepted papers can be found below.\n\n  DLP 2022\n  DLP 2021\n  DLP 2020\n  DLP 2019\n\n\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "Workshop Chairs",
+    "excerpt": "\n",
+    "content": "\n  \n  \n  \n  Ruiming Tang\n  Director of Recommendation &amp; Search Lab\n  Huawei Noah's Ark \n  \n\n\n  \n  \n  \n  Xiaoqiang Zhu\n  Chief AI Officer\n  Mobvista Group\n  \n\n\n  \n  \n  \n  Junfeng Ge\n  Head of Taobao Recommendation Team\n  Alibaba\n  \n\n\n  \n  \n  \n   Kuang-chih Lee\n  Tech Lead of Business Intelligence Group\n  AliExpress\n  \n\n\n  \n  \n  \n  Biye Jiang\n  Algorithm Expert of Advertising Group\n  Alibaba\n  \n\n\n  \n    \n  \n  Xingxing Wang\n  Tech Lead of Meituan Food Delivery Platform\n    Meituan\n  \n\n\n  \n    \n  \n  Han Zhu\n  Staff Engineer of Advertising Group\n    Alibaba\n  \n\n\n  \n    \n  \n  Tao Zhuang\n  Senior Staff Engineer of Taobao Recommendation Department\n  Alibaba\n  \n\n\n  \n    \n  \n  Weiwen Liu\n  Senior Researcher\n    Huawei Noah's Ark Lab\n  \n\n\n  \n    \n  \n  Kan Ren\n  Senior Researcher\n  Microsoft Research\n  \n\n\n  \n    \n  \n  Weinan Zhang\n  Associate Professor\n  Shanghai Jiao Tong University\n  \n\n\n  \n    \n  \n  Xiangyu Zhao\n  Assistant Professor\n   City University of Hong Kong\n  \n",
+    "url": "/org/"
+  },
+  
+  {
+    "title": "Schedule (Singapore)",
+    "excerpt": "\n",
+    "content": "The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:40pm (local time).\n\n\n\n\n\n  \n    Time\n    Content\n  \n\n\n  \n    9:00-9:40\n     Keynote: Low-resource Learning on Graphs by Prof. Fang Yuan\n  \n  \n    9:40-10:00\n    10 Challenges in Industiral Recommender Systems \n  \n  \n    10:00-10:10\n    Extracting Essential and Disentangled Knowledge for Recommendation Enhancement\n  \n  \n    10:10-10:20\n    Rec4Ad: A Free Lunch to Mitigate Selection Bias for Ads CTR Prediction in Taobao\n  \n  \n    10:20-10:30\n    Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models\n  \n  \n    10:30-10:40\n    DFFM: Domain Facilitated Feature Modeling for CTR Prediction\n  \n  \n    10:40-11:10\n    Coffee\n  \n  \n    11:10-11:20\n    Contrastive Multi-view Framework for Customer Lifetime Value Prediction\n  \n  \n    11:20-11:30\n    Making the Full Model Adaptive: Multi-level Domain Adaptation for Multi-Domain CTR Prediction\n  \n  \n    11:30-11:40\n    How Can Recommender Systems Benefit from Large Language Models: A Survey\n  \n  \n    11:40-11:50\n    CTRL: Connect Tabular and Language Model for CTR Prediction\n  \n  \n    11:50-12:00\n    Post-Training Quantization of Large and Sparse Embeddings in Deep Recommendation Models\n  \n  \n    12:00-12:10\n    STRec: Sparse Transformer for Sequential Recommendations\n  \n  \n    12:10-12:20\n    Multimodal Recommender Systems: A Survey\n  \n  \n    12:20-12:30\n    ClickPrompt: CTR Models are Strong Prompt Generators for Adapting Language Models to CTR Prediction\n  \n  \n    12:30-12:35\n    Poster Spotlight Video\n  \n    \n    12:35-12:40\n    Best Paper Award Anouncement\n  \n\n\n",
+    "url": "/schedule/"
+  }
+  
+]
+

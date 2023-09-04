@@ -40,8 +40,11 @@ navigation_header:
   url: /cfp/
 - title: Organization
   url: /org/
+- title: Beijing Event
+  url: /beijing/
 - title: Schedule
   url: /schedule/
+
 
 # Footer nav
 navigation_footer:

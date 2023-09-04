@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: Schedule (Singapore)
 ---
 
 The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:40pm (local time).
