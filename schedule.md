@@ -2,7 +2,7 @@
 title: Schedule
 ---
 
-The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:40pm.
+The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:40pm (local time).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

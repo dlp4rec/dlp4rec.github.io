@@ -1332,22 +1332,6 @@ body {
   margin: 0 auto;
 }
 
-.photo{
-  margin-bottom: 20px;
-  /*margin-top: 4px*/
-    width:50%;
-/*    height:250px;*/
-    float:left;
-    text-align:center;
-    font-size:18px;
-
-}
-
-.photo img {
-/*  margin-top: 4px
-  margin-bottom: -4px;*/
-}
-
 .header .nav,
 .footer .nav {
   text-align: right;
