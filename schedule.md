@@ -2,7 +2,7 @@
 title: Schedule
 ---
 
-The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:35pm.
+The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:40pm.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -23,7 +23,7 @@ The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:35pm.
 <tbody>
   <tr>
     <td class="tg-8ub8">9:00-9:40</td>
-    <td class="tg-x1q6"> Keynote: Low-resource Learning on Graphs by&nbsp;&nbsp;&nbsp;Prof. Fang Yuan</td>
+    <td class="tg-x1q6"> Keynote: Low-resource Learning on Graphs by Prof. Fang Yuan</td>
   </tr>
   <tr>
     <td class="tg-8ub8">9:40-10:00</td>
@@ -31,15 +31,15 @@ The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:35pm.
   </tr>
   <tr>
     <td class="tg-8ub8">10:00-10:10</td>
-    <td class="tg-8ub8">Extracting Essential and Disentangled Knowledge for Recommendation&nbsp;&nbsp;&nbsp;Enhancement</td>
+    <td class="tg-8ub8">Extracting Essential and Disentangled Knowledge for Recommendation Enhancement</td>
   </tr>
   <tr>
     <td class="tg-8ub8">10:10-10:20</td>
-    <td class="tg-8ub8">Rec4Ad: A Free Lunch to Mitigate Selection Bias for Ads CTR Prediction in&nbsp;&nbsp;&nbsp;Taobao</td>
+    <td class="tg-8ub8">Rec4Ad: A Free Lunch to Mitigate Selection Bias for Ads CTR Prediction in Taobao</td>
   </tr>
   <tr>
     <td class="tg-8ub8">10:20-10:30</td>
-    <td class="tg-8ub8">Towards Open-World Recommendation with Knowledge Augmentation from Large&nbsp;&nbsp;&nbsp;Language Models</td>
+    <td class="tg-8ub8">Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models</td>
   </tr>
   <tr>
     <td class="tg-8ub8">10:30-10:40</td>
@@ -55,7 +55,7 @@ The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:35pm.
   </tr>
   <tr>
     <td class="tg-8ub8">11:20-11:30</td>
-    <td class="tg-8ub8">Making the Full Model Adaptive: Multi-level Domain Adaptation for&nbsp;&nbsp;&nbsp;Multi-Domain CTR Prediction</td>
+    <td class="tg-8ub8">Making the Full Model Adaptive: Multi-level Domain Adaptation for Multi-Domain CTR Prediction</td>
   </tr>
   <tr>
     <td class="tg-8ub8">11:30-11:40</td>
@@ -67,7 +67,7 @@ The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:35pm.
   </tr>
   <tr>
     <td class="tg-8ub8">11:50-12:00</td>
-    <td class="tg-8ub8">Post-Training Quantization of Large and Sparse Embeddings in Deep&nbsp;&nbsp;&nbsp;Recommendation Models</td>
+    <td class="tg-8ub8">Post-Training Quantization of Large and Sparse Embeddings in Deep Recommendation Models</td>
   </tr>
   <tr>
     <td class="tg-8ub8">12:00-12:10</td>
@@ -79,10 +79,14 @@ The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:35pm.
   </tr>
   <tr>
     <td class="tg-8ub8">12:20-12:30</td>
-    <td class="tg-8ub8">ClickPrompt: CTR Models are Strong Prompt Generators for Adapting&nbsp;&nbsp;&nbsp;Language Models to CTR Prediction</td>
+    <td class="tg-8ub8">ClickPrompt: CTR Models are Strong Prompt Generators for Adapting Language Models to CTR Prediction</td>
   </tr>
   <tr>
     <td class="tg-8ub8">12:30-12:35</td>
+    <td class="tg-8ub8">Poster Spotlight Video</td>
+  </tr>
+    <tr>
+    <td class="tg-8ub8">12:35-12:40</td>
     <td class="tg-8ub8">Best Paper Award Anouncement</td>
   </tr>
 </tbody>
