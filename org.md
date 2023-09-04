@@ -5,7 +5,7 @@ title: Workshop Chairs
 
   <div class="photo">
   <a href="https://scholar.google.com.sg/citations?user=fUtHww0AAAAJ&hl=en">
-  <img src="/assets/imgs/trm.JPEG" width="240">
+  <img src="/assets/imgs/trm.jpeg" width="240">
   </a><br>
   <a href="https://scholar.google.com.sg/citations?user=fUtHww0AAAAJ&hl=en">Ruiming Tang</a>
   <div>Director of Recommendation & Search Lab</div>
@@ -61,7 +61,7 @@ title: Workshop Chairs
 
   <div class="photo">
   <a href="https://scholar.google.com/citations?user=kAT8BcIAAAAJ">
-    <img src="/assets/imgs/zh.JPEG" width="240">
+    <img src="/assets/imgs/zh.jpeg" width="240">
   </a><br>
   <a href="https://scholar.google.com/citations?user=kAT8BcIAAAAJ">Han Zhu</a>
   <div>Staff Engineer of Advertising Group</div>
