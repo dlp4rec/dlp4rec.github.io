@@ -21,32 +21,36 @@ The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:40pm (local
   </tr>
 </thead>
 <tbody>
+    <tr>
+    <td class="tg-8ub8">9:00-9:10</td>
+    <td class="tg-x1q6"> Opening and Best Paper Anouncement</td>
+  </tr>
   <tr>
-    <td class="tg-8ub8">9:00-9:40</td>
+    <td class="tg-8ub8">9:10-9:50</td>
     <td class="tg-x1q6"> Keynote: Low-resource Learning on Graphs by Prof. Fang Yuan</td>
   </tr>
   <tr>
-    <td class="tg-8ub8">9:40-10:00</td>
+    <td class="tg-8ub8">9:50-10:10</td>
     <td class="tg-8ub8">10 Challenges in Industiral Recommender Systems </td>
   </tr>
   <tr>
-    <td class="tg-8ub8">10:00-10:10</td>
+    <td class="tg-8ub8">10:10-10:20</td>
     <td class="tg-8ub8">Extracting Essential and Disentangled Knowledge for Recommendation Enhancement</td>
   </tr>
   <tr>
-    <td class="tg-8ub8">10:10-10:20</td>
+    <td class="tg-8ub8">10:20-10:30</td>
     <td class="tg-8ub8">Rec4Ad: A Free Lunch to Mitigate Selection Bias for Ads CTR Prediction in Taobao</td>
   </tr>
   <tr>
-    <td class="tg-8ub8">10:20-10:30</td>
+    <td class="tg-8ub8">10:30-10:40</td>
     <td class="tg-8ub8">Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models</td>
   </tr>
   <tr>
-    <td class="tg-8ub8">10:30-10:40</td>
+    <td class="tg-8ub8">10:40-10:50</td>
     <td class="tg-8ub8">DFFM: Domain Facilitated Feature Modeling for CTR Prediction</td>
   </tr>
   <tr>
-    <td class="tg-8ub8">10:40-11:10</td>
+    <td class="tg-8ub8">10:50-11:10</td>
     <td class="tg-8ub8">Coffee</td>
   </tr>
   <tr>
