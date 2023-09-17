@@ -2,7 +2,7 @@
 title: Schedule (Singapore)
 ---
 
-The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:40pm (local time).
+The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:40pm (local time). The zoom link has been posted on [RecSys Hub](https://www.recsyshub.org/). Each presenter will have an 8-minute slot for their talk followed by a 2-minute Q&A session.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -47,7 +47,7 @@ The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:40pm (local
   </tr>
   <tr>
     <td class="tg-8ub8">10:40-10:50</td>
-    <td class="tg-8ub8">DFFM: Domain Facilitated Feature Modeling for CTR Prediction</td>
+    <td class="tg-8ub8">Contrastive Multi-view Framework for Customer Lifetime Value Prediction</td>
   </tr>
   <tr>
     <td class="tg-8ub8">10:50-11:10</td>
@@ -55,7 +55,7 @@ The DLP workshop is scheduled on Sept. 18 (Monday) from 9:00am to 12:40pm (local
   </tr>
   <tr>
     <td class="tg-8ub8">11:10-11:20</td>
-    <td class="tg-8ub8">Contrastive Multi-view Framework for Customer Lifetime Value Prediction</td>
+    <td class="tg-8ub8">DFFM: Domain Facilitated Feature Modeling for CTR Prediction</td>
   </tr>
   <tr>
     <td class="tg-8ub8">11:20-11:30</td>
