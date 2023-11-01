@@ -44,6 +44,8 @@ navigation_header:
   url: /beijing/
 - title: Schedule
   url: /schedule/
+- title: Accepted Contributions
+  url: /contributions/
 
 
 # Footer nav
