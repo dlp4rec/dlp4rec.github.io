@@ -8,7 +8,7 @@ title: Accepted Contributions
 - **Chuhan Wu, Jingjie Li, Qinglin Jia, Hong Zhu, Yuan Fang and Ruiming Tang**: Contrastive Multi-view Framework for Customer Lifetime Value Prediction
 - **Qi Zhang, Chuhan Wu, Jieming Zhu, Jingjie Li, Qinglin Jia, Ruiming Tang, Rui Zhang and Liangbi Li**: Making the Full Model Adaptive: Multi-level Domain Adaptation for Multi-Domain CTR Prediction
 - **Jianghao Lin, Xinyi Dai, Yunjia Xi, Weiwen Liu, Bo Chen, Xiangyang Li, Chenxu Zhu, Huifeng Guo, Yong Yu, Ruiming Tang and Weinan Zhang**: How Can Recommender Systems Benefit from Large Language Models: A Survey [[paper](https://arxiv.org/pdf/2306.05817.pdf)]
-- **Xiangyang Li, Bo Chen, Lu Hou and Ruiming Tang**: CTRL: Connect Tabular and Language Model for CTR Prediction
+- **Xiangyang Li, Bo Chen, Lu Hou and Ruiming Tang**: CTRL: Connect Tabular and Language Model for CTR Prediction [[paper](https://arxiv.org/pdf/2306.02841.pdf)]
 - **Ningning Li, Qiwei Chen, Tao Zhuang, Lisong Qiu, Yang Xi, Shanshan Lv, Wenbo Su and Junfeng Ge**: Post-Training Quantization of Large and Sparse Embeddings in Deep Recommendation Models
 - **Chengxi Li, Yejing Wang, Qidong Liu, Xiangyu Zhao, Wanyu Wang, Yiqi Wang, Lixin Zou, Wenqi Fan and Qing Li**: STRec: Sparse Transformer for Sequential Recommendations
 - **Qidong Liu, Jiaxi Hu, Yutian Xiao, Xiangyu Zhao, Jingtong Gao, Wanyu Wang, Qing Li and Jiliang Tang**: Multimodal Recommender Systems: A Survey
